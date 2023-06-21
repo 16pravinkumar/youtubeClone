@@ -477,3 +477,9 @@ p {
     }
 }
 
+@media (max-width:500px) {
+    .middle-nav .search-box input {
+        width: 70px;
+        
+    }
+}
